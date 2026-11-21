@@ -1,0 +1,6 @@
+venv/
+.git/
+.bot_token
+.owner_id
+*.db
+__pycache__/
