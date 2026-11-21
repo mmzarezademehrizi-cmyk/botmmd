@@ -1,0 +1,10 @@
+.bot_token
+.owner_id
+bot_data.db
+bot_data.db-*
+*.db
+venv/
+__pycache__/
+*.pyc
+backups/
+.env
