@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+APScheduler<4
+openpyxl>=3.1
+requests>=2.31
+urllib3
